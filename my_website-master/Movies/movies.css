@@ -1,0 +1,49 @@
+.topheading{
+	padding-left:40px;
+	font-family: cursive;
+	font-size: 27px;
+	font-weight: 900;
+}					
+.heading a{
+	padding-left:40px;
+	font-family:serif;
+	font-size:22px;
+	color:black;
+}
+.heading img{
+	border-radius: 21%;
+	margin-left:12px;
+	margin-bottom: -8px;
+	margin-top: 6px;
+}
+.texts {
+	padding-left:40px;
+	padding-bottom:10px;
+	font-size:21px;
+	height:55px;
+	overflow:hidden;
+	position:relative;
+}
+.open{
+	max-height:500px;
+	transition:0.5s;
+	padding-left:40px;
+	padding-bottom:10px;
+	font-size:21px;
+	position:relative;
+}
+.close{
+	transition:0.5s;
+	padding-left:40px;
+	padding-bottom:10px;
+	font-size:21px;
+	height:55px;
+	overflow:hidden;
+	position:relative;
+}
+.show-more{
+	margin-left:40px;
+	background-color:lightskyblue;
+	font-size:20px;
+	margin-bottom:10px;
+}

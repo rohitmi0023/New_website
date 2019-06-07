@@ -1,0 +1,8 @@
+1)Responsive nav bar
+2)Sign up form
+3)Log in form
+4)Panel of text intro(link to various things like...)
+5)Home button
+5)About me image
+6)About me links to my profiles
+7)
