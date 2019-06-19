@@ -1,0 +1,33 @@
+#about-me{
+	border-top:2px dashed black;
+	clear:right;
+}
+.topheading{
+	padding-left:40px;
+	padding-top: 12px;
+	padding-bottom: 7px;
+	font-family: cursive;
+	font-size: 27px;
+	font-weight: 900;
+}
+.slides{
+	position:absolute;
+	right:0;
+}
+#content{
+	font-size:20px;
+	font-style:serif;
+	font-weight:700px;
+    padding-left:40px;
+    img{
+        margin-right:80px;
+        box-shadow:-3px 1px 15px deepskyblue;
+    }
+}
+#content p{
+	font-style:serif;
+	padding:20px 0px;
+}
+li{
+	padding-right:25%;
+}

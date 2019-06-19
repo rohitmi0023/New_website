@@ -1,0 +1,49 @@
+#sportstopheading p {
+  padding-left: 40px;
+  font-family: cursive;
+  font-size: 27px;
+  font-weight: 900; }
+
+p {
+  margin: 10px 0px; }
+
+.texts {
+  padding-left: 40px;
+  font-size: 13px;
+  height: 70px;
+  overflow: hidden;
+  position: relative; }
+
+.open {
+  max-height: 500px;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  padding-left: 40px;
+  padding-bottom: 10px;
+  font-size: 21px;
+  position: relative; }
+
+.close {
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  padding-left: 40px;
+  padding-bottom: 10px;
+  font-size: 21px;
+  height: 55px;
+  overflow: hidden;
+  position: relative; }
+
+.show-more {
+  margin-left: 40px;
+  background-color: white;
+  font-size: 20px;
+  margin-bottom: 10px; }
+
+.sportsheading a {
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-top: 10px;
+  color: black;
+  font-size: 22px; }

@@ -1,0 +1,103 @@
+#navigation {
+  background-color: #d50000;
+  font-family: fantasy;
+  text-align: center;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+#navigation .registration {
+  float: right;
+}
+
+#navigation a {
+  color: white;
+  padding: 14px 16px;
+  font-size: 24px;
+  float: left;
+  text-decoration: none;
+}
+
+#navigation a:hover {
+  background-color: #ef5350;
+  color: #ff1744;
+}
+
+#navigation a:nth-child(6) {
+  margin-right: 80px;
+}
+
+#about-me {
+  border-top: 2px dashed black;
+  clear: right;
+}
+
+.topheading {
+  padding-left: 40px;
+  padding-top: 12px;
+  padding-bottom: 7px;
+  font-family: cursive;
+  font-size: 27px;
+  font-weight: 900;
+}
+
+.slides {
+  position: absolute;
+  right: 0;
+}
+
+#content {
+  font-size: 20px;
+  font-style: serif;
+  font-weight: 700px;
+  padding-left: 40px;
+}
+
+#content img {
+  margin-right: 80px;
+  -webkit-box-shadow: -3px 1px 15px deepskyblue;
+          box-shadow: -3px 1px 15px deepskyblue;
+}
+
+#content p {
+  font-style: serif;
+  padding: 20px 0px;
+}
+
+li {
+  padding-right: 25%;
+}
+
+body {
+  padding-bottom: 10px;
+}
+
+#textintro {
+  margin-bottom: 20px;
+  clear: left;
+  font-weight: bold;
+  font-family: serif;
+  font-style: italic;
+  padding-left: 40px;
+  font-size: 19px;
+}
+
+#search-bar {
+  padding-left: 3px;
+  padding-right: 30px;
+  margin-left: 40px;
+  margin-bottom: 8px;
+  padding-top: 10px;
+  text-align: left;
+}
+
+.text-content {
+  border-radius: 25px;
+  border-style: groove;
+}
+
+.mob-img {
+  float: right;
+  margin-left: 30px;
+}
+/*# sourceMappingURL=home.css.map */

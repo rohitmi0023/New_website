@@ -5,4 +5,6 @@
 5)Home button
 5)About me image
 6)About me links to my profiles
-7)
+7)Single page Web applications //React
+8)Notification side on the right side which will display notification if the user has signed in //React
+9)implementing my music player

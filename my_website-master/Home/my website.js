@@ -33,9 +33,9 @@ function myFunction(){
 }
 
 //Read more effect
-$(document).ready(function(){
-	$('[data-toggle="tooltip"]').tooltip();
-	});
+// $(document).ready(function(){
+	// $('[data-toggle="tooltip"]').tooltip();
+	// })
 
 /*
 document.addEventListener("mouseover",effect);

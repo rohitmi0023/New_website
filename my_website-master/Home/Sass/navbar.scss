@@ -1,0 +1,27 @@
+@import './variables.scss';
+
+#navigation {
+    background-color: $darkred; 
+    font-family:fantasy;
+    text-align: center;    	
+    overflow: hidden;
+    margin-bottom: 20px;
+    .registration{
+        float: right;
+    }
+}
+
+#navigation a{
+    color:white;
+    padding : 14px 16px;
+    font-size:24px;
+    float : left;
+    text-decoration:none;
+    &:hover{
+        background-color:$lightred;
+        color:$redpink;
+    }
+    &:nth-child(6){
+        margin-right:80px;
+    }
+}
